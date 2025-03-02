@@ -45,14 +45,14 @@ export default function BioCard() {
             <LinkedinIcon />
           </LinkIcon>
           <LinkIcon
-            href="https://github.com/Alexandrbig1"
+            href="https://github.com/RobertTopDev"
             target="_blank"
             rel="noopener noreferrer"
           >
             <GithubIcon />
           </LinkIcon>
           <LinkIcon
-            href="https://dribbble.com/Alexandrbig1"
+            href="https://dribbble.com/RobertTopDev"
             target="_blank"
             rel="noopener noreferrer"
           >
