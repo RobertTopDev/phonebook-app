@@ -1,6 +1,6 @@
 {
   "name": "phonebook-app",
-  "homepage": "http://Alexandrbig1.github.io/phonebook-app",
+  "homepage": "http://RobertTopDev.github.io/phonebook-app",
   "author": "Alex Smagin",
   "description": "Manage your contacts with the React Phonebook app. Utilizes Redux, Styled Components, and Async Redux Thunks. Add, delete, and search for contacts with ease.",
   "keywords": [
