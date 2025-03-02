@@ -44,7 +44,7 @@ function Copyright(props) {
       {...props}
       style={{ fontSize: "1rem" }}
     >
-      {"Alex Smagin © "}
+      {"Robert Tanel Riegler © "}
       <LinkSignUpStyled
         color="inherit"
         href="https://connectcontacts.netlify.app/"
