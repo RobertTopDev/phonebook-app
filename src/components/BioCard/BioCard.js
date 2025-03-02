@@ -28,7 +28,7 @@ export default function BioCard() {
             />
           </AvatarContainer>
           <AvatarTextContainer>
-            <CardTitle>Alex Smagin</CardTitle>
+            <CardTitle>Robert Tanel Riegler</CardTitle>
             <CardText>
               Hey there! I'm a web developer. Currently, I'm sharpening my
               coding skills in a comprehensive full-stack bootcamp and pursuing
