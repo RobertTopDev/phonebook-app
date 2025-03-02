@@ -43,32 +43,6 @@ Ready to elevate your contact management experience? Explore ConnectContacts tod
 - React Icons
 - React Avatars Dicebear
 
-## Project Preview
-
-#### Screenshots:
-
-<img src="./public/images/screenshot1.jpg" alt="Home Page Connect Contacts light mode" width="100%" height="auto" />
-
-_Caption for Screenshot 1 Home Page Connect Contacts (light mode)_
-
-<img src="./public/images/screenshot2.jpg" alt="Home Page Connect Contacts dark mode" width="100%" height="auto" />
-
-_Caption for Screenshot 2 Home Page Connect Contacts (dark mode)_
-
-<div>
-  <img src="./public/images/screenshot3.jpg" alt="Sign Up Page light mode" width="400" />
-  <img align="right" src="./public/images/screenshot4.jpg" alt="Sign In Page dark mode" width="400" />
-</div>
-
-_Caption for Screenshots 3-4 Sign Up & Sign In Pages (light/dark mode)_
-
-<img src="./public/images/screenshot5.jpg" alt="PhoneBook Page Contacts light mode" width="100%" height="auto" />
-
-_Caption for Screenshot 5 Contacts Page (light mode)_
-
-<img src="./public/images/screenshot6.jpg" alt="PhoneBook Page Contacts dark mode" width="100%" height="auto" />
-
-_Caption for Screenshot 6 Contacts Page (dark mode)_
 
 ## Issues
 
