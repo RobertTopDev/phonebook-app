@@ -38,7 +38,7 @@ export default function BioCard() {
         </CardContentWrapper>
         <IconsWrapper>
           <LinkIcon
-            href="https://www.linkedin.com/in/alex-smagin29/"
+            href="https://www.linkedin.com/in/robert-t-riegler/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -59,7 +59,7 @@ export default function BioCard() {
             <DribbleIcon />
           </LinkIcon>
           <LinkIcon
-            href="https://twitter.com/alexsmagin29"
+            href="https://twitter.com/robertriegler29"
             target="_blank"
             rel="noopener noreferrer"
           >
